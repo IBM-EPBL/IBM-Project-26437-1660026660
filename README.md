@@ -30,7 +30,7 @@ VirtualEye - Life Guard for Swimming Pools to Detect Active Drowning
 
 ## PROBLEM STATEMENT
 
->## Problem Statement : <img src="https://media3.giphy.com/media/PiAjGFVGKd9vvhrxLa/giphy.gif?cid=ecf05e47q3eaer6sqflvudf7hihc8qzeq95zw7nga3pcbccc&rid=giphy.gif&ct=s" width="30px">
+<img src="https://media3.giphy.com/media/PiAjGFVGKd9vvhrxLa/giphy.gif?cid=ecf05e47q3eaer6sqflvudf7hihc8qzeq95zw7nga3pcbccc&rid=giphy.gif&ct=s" width="30px">
 
         1. Swimming is one of the best exercises that helps people to reduce stress in this urban lifestyle. Swimming pools are found larger in number in hotels.
 
