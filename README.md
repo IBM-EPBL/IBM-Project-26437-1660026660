@@ -18,7 +18,7 @@ VirtualEye - Life Guard for Swimming Pools to Detect Active Drowning
 
 ## TEAM MEMBERS
 
-- KOWSHIK NR (TEAM LEADER) 
+- KOUSHIK NR (TEAM LEADER) 
 
 - HITHES RAJA N
 
