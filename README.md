@@ -6,7 +6,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg"  align="center" alt="drawing" width="200" />
 
-  <h2 align="center"> University Admit Eligibility Predictor <br></h2>
+<h2 align="center"> University Admit Eligibility Predictor </br></h2>
 
 </div>
 
@@ -14,7 +14,7 @@
 
 
 
-VirtualEye - Life Guard for Swimming Pools to Detect Active Drowning
+Virtual Eye - Life Guard for Swimming Pools to Detect Active Drowning
 
 ## TEAM MEMBERS
 
@@ -36,7 +36,7 @@ VirtualEye - Life Guard for Swimming Pools to Detect Active Drowning
 
         2. Applying the CNN algorithm to the dataset. Beginners especially, often feel it difficult to breathe underwater which causes breathing trouble which in turn causes a drowning accident.
 
-        3.To overcome this conflict, a meticulous system is to be implemented along the swimming pools to save human life.
+        3. To overcome this conflict, a meticulous system is to be implemented along the swimming pools to save human life.
 
 ## TECHNICAL ARCHITECTURE
 
